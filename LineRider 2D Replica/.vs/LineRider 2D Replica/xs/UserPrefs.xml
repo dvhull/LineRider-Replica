@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9E845252-3D3A-A81C-50F9-9BEE18F3BE51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Line.cs">
+    <Files>
+      <File FileName="Assets/Line.cs" Line="50" Column="6" />
+      <File FileName="Assets/DrawManager.cs" Line="16" Column="25" />
+      <File FileName="Assets/Player.cs" Line="12" Column="21" />
+      <File FileName="Assets/PlayerTrail.cs" Line="5" Column="1" />
+      <File FileName="Assets/PlayerTrailManager.cs" Line="6" Column="1" />
+      <File FileName="Assets/UIManager.cs" Line="10" Column="39" />
+      <File FileName="Assets/InputManager.cs" Line="62" Column="10" />
+      <File FileName="Assets/Scripts/Camera.cs" Line="23" Column="9" />
+      <File FileName="Assets/Scripts/DrawManager.cs" Line="72" Column="28" />
+      <File FileName="Assets/Scripts/Line.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LineRider 2D Replica" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Line.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="04698f35-73bf-4f82-9f69-67a1b0b95420" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
