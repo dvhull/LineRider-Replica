@@ -7,6 +7,6 @@ Simple LineRider Replica creating in unity.
 # Attribution
 Undo Icon made by https://www.flaticon.com/authors/freepik from www.flaticon.com
 
-Move Icon made by https://www.flaticon.com/authors/those-icons from flaticon.com
+Move Icon made by https://www.flaticon.com/authors/those-icons from www.flaticon.com
 
 Paint Icon made by https://www.flaticon.com/authors/freepik from www.flaticon.com
