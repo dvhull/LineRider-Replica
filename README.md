@@ -1,7 +1,6 @@
 # LineRider-Replica
 Simple LineRider Replica created in unity. 
 
-(Super cool demo)
 ![](https://dvhull.github.io/personal-website/images/lineRider-demo.gif)
 
 # Attribution
