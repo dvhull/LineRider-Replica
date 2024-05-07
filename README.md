@@ -1,5 +1,5 @@
 # LineRider-Replica
-Simple LineRider Replica created in unity. 
+Simple LineRider Replica created in unity. This code is pretty old and needs to be re-factored. 
 
 ![lineRider-demo](https://user-images.githubusercontent.com/56657018/118410124-49701880-b664-11eb-8cb8-3e351e0298d4.gif)
 
